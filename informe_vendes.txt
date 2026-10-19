@@ -1,0 +1,37 @@
+INFORME EXECUTIU DE VENDES
+===================================
+
+Data de generacio: 19/10/2026 23:10:48
+
+1. COBERTURA DE DADES
+-------------------------
+Registres llegits: 19
+Registres valids: 15 (78.95%)
+Registres rebutjats: 4 (21.05%)
+Incidencies documentades: 95
+
+2. INDICADORS GLOBALS
+-------------------------
+Total d'unitats venudes: 128
+Facturacio total: 894.60 EUR
+Preu unitari mitja: 15.55 EUR
+Import mitja per linia: 59.64 EUR
+
+3. FACTURACIO PER CATEGORIA
+------------------------------
+Electrònica: 498.70 EUR
+Accessoris: 245.40 EUR
+Papereria: 150.50 EUR
+
+4. FACTURACIO PER CIUTAT
+---------------------------
+Barcelona: 479.30 EUR
+Tarragona: 201.30 EUR
+Girona: 189.00 EUR
+Lleida: 25.00 EUR
+
+5. RESULTATS DESTACATS
+-------------------------
+Categoria amb mes facturacio: Electrònica (498.70 EUR)
+Ciutat amb mes facturacio: Barcelona (479.30 EUR)
+Producte amb mes unitats venudes: Bolígraf (65 unitats)

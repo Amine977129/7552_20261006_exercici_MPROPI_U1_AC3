@@ -1,0 +1,96 @@
+﻿fila_csv;tipus;camp;valor_original;accio
+2;CORRECCIO;producte; Llibreta  ;Espais sobrants eliminats
+2;CORRECCIO;categoria; Papereria  ;Espais sobrants eliminats
+2;CORRECCIO;ciutat; Barcelona;Espais sobrants eliminats
+2;CORRECCIO;unitats; 12     ;Espais sobrants eliminats
+2;CORRECCIO;preu_unitari; 2.50        ;Espais sobrants eliminats
+3;CORRECCIO;producte; Bolígraf  ;Espais sobrants eliminats
+3;CORRECCIO;categoria; Papereria  ;Espais sobrants eliminats
+3;CORRECCIO;ciutat; Girona;Espais sobrants eliminats
+3;CORRECCIO;unitats; 30     ;Espais sobrants eliminats
+3;CORRECCIO;preu_unitari; 1.20        ;Espais sobrants eliminats
+4;CORRECCIO;producte; Motxilla  ;Espais sobrants eliminats
+4;CORRECCIO;categoria; Accessoris ;Espais sobrants eliminats
+4;CORRECCIO;ciutat; Barcelona;Espais sobrants eliminats
+4;CORRECCIO;unitats; 3      ;Espais sobrants eliminats
+4;CORRECCIO;preu_unitari; 24.90       ;Espais sobrants eliminats
+5;CORRECCIO;producte; Ampolla   ;Espais sobrants eliminats
+5;CORRECCIO;categoria; Accessoris ;Espais sobrants eliminats
+5;CORRECCIO;ciutat; Tarragona;Espais sobrants eliminats
+5;CORRECCIO;unitats; 8      ;Espais sobrants eliminats
+5;CORRECCIO;preu_unitari; 12.00       ;Espais sobrants eliminats
+6;CORRECCIO;producte; Llibreta  ;Espais sobrants eliminats
+6;CORRECCIO;categoria; Papereria  ;Espais sobrants eliminats
+6;CORRECCIO;ciutat; Lleida;Espais sobrants eliminats
+6;CORRECCIO;unitats; 10     ;Espais sobrants eliminats
+6;CORRECCIO;preu_unitari; 2.50        ;Espais sobrants eliminats
+7;CORRECCIO;producte; Auriculars;Espais sobrants eliminats
+7;CORRECCIO;categoria; Electrònica;Espais sobrants eliminats
+7;CORRECCIO;ciutat; Barcelona;Espais sobrants eliminats
+7;CORRECCIO;unitats; 4      ;Espais sobrants eliminats
+7;CORRECCIO;preu_unitari; 39.95       ;Espais sobrants eliminats
+8;CORRECCIO;producte; Bolígraf  ;Espais sobrants eliminats
+8;CORRECCIO;categoria; Papereria  ;Espais sobrants eliminats
+8;CORRECCIO;ciutat; Girona;Espais sobrants eliminats
+8;CORRECCIO;unitats; 15     ;Espais sobrants eliminats
+8;CORRECCIO;preu_unitari; 1.20        ;Espais sobrants eliminats
+9;CORRECCIO;producte; Motxilla  ;Espais sobrants eliminats
+9;CORRECCIO;categoria; Accessoris ;Espais sobrants eliminats
+9;CORRECCIO;ciutat; Tarragona;Espais sobrants eliminats
+9;CORRECCIO;unitats; 2      ;Espais sobrants eliminats
+9;CORRECCIO;preu_unitari; 24.90       ;Espais sobrants eliminats
+10;CORRECCIO;producte; Carregador;Espais sobrants eliminats
+10;CORRECCIO;categoria; Electrònica;Espais sobrants eliminats
+10;CORRECCIO;ciutat; Barcelona;Espais sobrants eliminats
+10;CORRECCIO;unitats; 5      ;Espais sobrants eliminats
+10;CORRECCIO;preu_unitari; 18.50       ;Espais sobrants eliminats
+11;CORRECCIO;producte; Llibreta  ;Espais sobrants eliminats
+11;CORRECCIO;categoria; Papereria  ;Espais sobrants eliminats
+11;CORRECCIO;ciutat; Girona;Espais sobrants eliminats
+11;REBUTJAT;unitats;        ;Unitats no valides: cal un enter positiu
+11;CORRECCIO;preu_unitari; 2.50        ;Espais sobrants eliminats
+12;CORRECCIO;producte; Ampolla   ;Espais sobrants eliminats
+12;CORRECCIO;categoria; Accessoris ;Espais sobrants eliminats
+12;CORRECCIO;ciutat;"00""     ";Espais sobrants eliminats
+12;CORRECCIO;unitats; 6      ;Espais sobrants eliminats
+12;REBUTJAT;preu_unitari;" ""12";Preu no valid: cal un nombre positiu
+13;CORRECCIO;producte; Auriculars;Espais sobrants eliminats
+13;CORRECCIO;categoria; Electrònica;Espais sobrants eliminats
+13;CORRECCIO;ciutat; Lleida;Espais sobrants eliminats
+13;REBUTJAT;unitats; dos    ;Unitats no valides: cal un enter positiu
+13;CORRECCIO;preu_unitari; 39.95       ;Espais sobrants eliminats
+14;CORRECCIO;producte; Carregador;Espais sobrants eliminats
+14;CORRECCIO;categoria; Electrònica;Espais sobrants eliminats
+14;CORRECCIO;ciutat; Tarragona;Espais sobrants eliminats
+14;CORRECCIO;unitats; 3      ;Espais sobrants eliminats
+14;CORRECCIO;preu_unitari; 18.50       ;Espais sobrants eliminats
+15;CORRECCIO;producte; Motxilla  ;Espais sobrants eliminats
+15;CORRECCIO;categoria; Accessoris ;Espais sobrants eliminats
+15;CORRECCIO;ciutat; Barcelona;Espais sobrants eliminats
+15;CORRECCIO;unitats; 1      ;Espais sobrants eliminats
+15;CORRECCIO;preu_unitari; 24.90       ;Espais sobrants eliminats
+16;CORRECCIO;producte; Llibreta  ;Espais sobrants eliminats
+16;CORRECCIO;categoria; Papereria  ;Espais sobrants eliminats
+16;CORRECCIO;ciutat; Barcelona;Espais sobrants eliminats
+16;CORRECCIO;unitats; 7      ;Espais sobrants eliminats
+16;CORRECCIO;preu_unitari; 2.50        ;Espais sobrants eliminats
+17;CORRECCIO;producte; Bolígraf  ;Espais sobrants eliminats
+17;CORRECCIO;categoria; Papereria  ;Espais sobrants eliminats
+17;CORRECCIO;ciutat; Girona;Espais sobrants eliminats
+17;CORRECCIO;unitats; 20     ;Espais sobrants eliminats
+17;CORRECCIO;preu_unitari; 1.20        ;Espais sobrants eliminats
+18;CORRECCIO;producte; Ampolla   ;Espais sobrants eliminats
+18;CORRECCIO;categoria; Accessoris ;Espais sobrants eliminats
+18;REBUTJAT;ciutat; ;Camp obligatori buit
+18;CORRECCIO;unitats; 4      ;Espais sobrants eliminats
+18;CORRECCIO;preu_unitari; 12.00       ;Espais sobrants eliminats
+19;CORRECCIO;producte; Auriculars;Espais sobrants eliminats
+19;CORRECCIO;categoria; Electrònica;Espais sobrants eliminats
+19;CORRECCIO;ciutat; Barcelona;Espais sobrants eliminats
+19;CORRECCIO;unitats; 2      ;Espais sobrants eliminats
+19;CORRECCIO;preu_unitari; 39.95       ;Espais sobrants eliminats
+20;CORRECCIO;producte; Carregador;Espais sobrants eliminats
+20;CORRECCIO;categoria; Electrònica;Espais sobrants eliminats
+20;CORRECCIO;ciutat; Girona;Espais sobrants eliminats
+20;CORRECCIO;unitats; 6      ;Espais sobrants eliminats
+20;CORRECCIO;preu_unitari; 18.50       ;Espais sobrants eliminats
